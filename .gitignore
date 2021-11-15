@@ -1,0 +1,7 @@
+/java-bazel-guice-dropwizard-demo.iml
+/.ijwb/
+/.idea/
+/bazel-bin/
+/bazel-java-bazel-guice-dropwizard-demo/
+/bazel-out/
+/bazel-testlogs/
